@@ -41,15 +41,15 @@ android_app {
         proguard_flags_files: ["proguard.flags"],
     },
 
-    required: ["privapp_whitelist_com.crdroid.updater.xml"],
+    required: ["privapp_whitelist_com.ricedroid.updater.xml"],
 
 }
 
 prebuilt_etc {
-    name: "privapp_whitelist_com.crdroid.updater.xml",
+    name: "privapp_whitelist_com.ricedroid.updater.xml",
 
     system_ext_specific: true,
-    src: "privapp_whitelist_com.crdroid.updater.xml",
+    src: "privapp_whitelist_com.ricedroid.updater.xml",
     sub_dir: "permissions",
 
 }

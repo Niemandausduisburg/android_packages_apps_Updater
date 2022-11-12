@@ -30,8 +30,8 @@
                 android:fontFamily="@*android:string/config_headlineFontFamily"
                 android:paddingBottom="16dp"
                 android:textColor="?android:attr/textColorPrimary"
-                android:textSize="56sp"
-                tools:text="crDroid\n18.1" />
+                android:textSize="28sp"
+                tools:text="riceDroid\n18.1" />
 
             <TextView
                 android:id="@+id/header_build_version"

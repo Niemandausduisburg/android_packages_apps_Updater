@@ -22,7 +22,7 @@
     <string name="current_build_type">Jelenlegi build fajtája</string>
     <string name="build_type_unknown">Nem hivatalos vagy hiányzó OTA információ</string>
     <string name="info_dialog_title">Tudtad?</string>
-    <string name="info_dialog_message">A crDroid frissítései teljes telepítőcsomagok. Ez azt jelenti, hogy mindig elés a legfrissebb csomagot telepítenie, nem baj ha kihagyott párat!</string>
+    <string name="info_dialog_message">A riceDroid frissítései teljes telepítőcsomagok. Ez azt jelenti, hogy mindig elés a legfrissebb csomagot telepítenie, nem baj ha kihagyott párat!</string>
     <string name="info_dialog_ok">Köszönet az információért!</string>
     <string name="local_update_import">Helyi frissítés</string>
     <string name="local_update_import_progress">Helyi frissítés importálása\u2026</string>

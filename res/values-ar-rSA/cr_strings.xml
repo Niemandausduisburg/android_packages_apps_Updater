@@ -22,7 +22,7 @@
     <string name="current_build_type">نوع البناء الحالي: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">معلومات OTA غير رسمية أو مفقودة</string>
     <string name="info_dialog_title">هل تعلم؟</string>
-    <string name="info_dialog_message">تحديثات crDroid هي حزم تثبيت كاملة. وهذا يعني أنه يمكنك دائماً تثبيت أحدث تحديث فقط، حتى إذا كنت قد تخطيت بعض التحديثات السابقة!</string>
+    <string name="info_dialog_message">تحديثات riceDroid هي حزم تثبيت كاملة. وهذا يعني أنه يمكنك دائماً تثبيت أحدث تحديث فقط، حتى إذا كنت قد تخطيت بعض التحديثات السابقة!</string>
     <string name="info_dialog_ok">شكرًا على المعلومة!</string>
     <string name="local_update_import">تحديث محلّي</string>
     <string name="local_update_import_progress">أختيار تحديث محلّي\u2026</string>

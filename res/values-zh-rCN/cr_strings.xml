@@ -22,7 +22,7 @@
     <string name="current_build_type">当前构建类型： <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">非官方信息或缺少OTA 信息</string>
     <string name="info_dialog_title">您知道吗？</string>
-    <string name="info_dialog_message">crDroid 采用完整更新（非增量更新）方式进行系统升级。这意味着即使您之前未完成所有的系统升级，也随时可以直接升级到最新的系统版本！</string>
+    <string name="info_dialog_message">riceDroid 采用完整更新（非增量更新）方式进行系统升级。这意味着即使您之前未完成所有的系统升级，也随时可以直接升级到最新的系统版本！</string>
     <string name="info_dialog_ok">感谢您的反馈！</string>
     <string name="local_update_import">选择本地 ROM 进行系统升级</string>
     <string name="local_update_import_progress">正在导入本地系统升级包\u2026</string>

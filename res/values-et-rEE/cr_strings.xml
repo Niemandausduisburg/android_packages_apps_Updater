@@ -22,7 +22,7 @@
     <string name="current_build_type">Praeguse versiooni tüüp: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Mitteametlik või puuduv üle-õhu-uuenduste teave</string>
     <string name="info_dialog_title">Kas teadsid?</string>
-    <string name="info_dialog_message">crDroidi värskendused on täielikud installipaketid. See tähendab, et saad alati installida ainult uusima värskenduse, isegi kui oled mõne neist vahele jätnud!</string>
+    <string name="info_dialog_message">riceDroidi värskendused on täielikud installipaketid. See tähendab, et saad alati installida ainult uusima värskenduse, isegi kui oled mõne neist vahele jätnud!</string>
     <string name="info_dialog_ok">Tänan info eest!</string>
     <string name="local_update_import">Kohalik uuendus</string>
     <string name="local_update_import_progress">Kohaliku uuenduse importimine\u2026</string>

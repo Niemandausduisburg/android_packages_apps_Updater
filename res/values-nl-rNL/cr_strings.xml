@@ -22,7 +22,7 @@
     <string name="current_build_type">Huidige build type: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Onofficiëel of ontbrekende OTA info</string>
     <string name="info_dialog_title">Wist je dat?</string>
-    <string name="info_dialog_message">crDroid updates zijn volledige installatiepakketten. Dat betekent dat je altijd alleen de nieuwste update kunt installeren, zelfs als je er tussenin wat hebt overgeslagen!</string>
+    <string name="info_dialog_message">riceDroid updates zijn volledige installatiepakketten. Dat betekent dat je altijd alleen de nieuwste update kunt installeren, zelfs als je er tussenin wat hebt overgeslagen!</string>
     <string name="info_dialog_ok">Bedankt voor de informatie!</string>
     <string name="local_update_import">Lokale update</string>
     <string name="local_update_import_progress">Lokale update importeren\u2026</string>

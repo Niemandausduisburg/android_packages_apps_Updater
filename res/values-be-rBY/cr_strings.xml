@@ -22,7 +22,7 @@
     <string name="current_build_type">Бягучы тып зборкі: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Неафіцыйная або адсутнічае інфармацыя OTA</string>
     <string name="info_dialog_title">Вы ведалі?</string>
-    <string name="info_dialog_message">абнаўлення crDroid ўяўляюць сабой поўныя ўсталявальныя пакеты. Гэта азначае, што вы заўсёды можаце ўсталяваць толькі Апошняе абнаўленне, нават калі вы прапусцілі некаторыя прамежкавыя абнаўлення!</string>
+    <string name="info_dialog_message">абнаўлення riceDroid ўяўляюць сабой поўныя ўсталявальныя пакеты. Гэта азначае, што вы заўсёды можаце ўсталяваць толькі Апошняе абнаўленне, нават калі вы прапусцілі некаторыя прамежкавыя абнаўлення!</string>
     <string name="info_dialog_ok">Дзякуй за інфармацыю!</string>
     <string name="local_update_import">Лакальнае абнаўленне</string>
     <string name="local_update_import_progress">Імпарт лакальнага абнаўлення\u2026</string>

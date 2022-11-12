@@ -22,7 +22,7 @@
     <string name="current_build_type">Тип поточної прошивки: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Неофіційна прошивка або відсутня інформація про OTA</string>
     <string name="info_dialog_title">Чи знаєте Ви?</string>
-    <string name="info_dialog_message">Оновлення crDroid - це повні пакети для встановлення. Це означає, що ви завжди можете встановити лише останнє оновлення, навіть якщо пропустили деякі проміжні!</string>
+    <string name="info_dialog_message">Оновлення riceDroid - це повні пакети для встановлення. Це означає, що ви завжди можете встановити лише останнє оновлення, навіть якщо пропустили деякі проміжні!</string>
     <string name="info_dialog_ok">Дякую за інформацію!</string>
     <string name="local_update_import">Локальне оновлення</string>
     <string name="local_update_import_progress">Імпортування локального оновлення\u2026</string>

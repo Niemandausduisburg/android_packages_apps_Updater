@@ -22,7 +22,7 @@
     <string name="current_build_type">Bieżący typ builda: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Nieoficjalne lub brakujące informacje OTA</string>
     <string name="info_dialog_title">Czy wiesz, że...?</string>
-    <string name="info_dialog_message">Aktualizacje crDroid to pełne pakiety instalacyjne. Oznacza to, że zawsze masz możliwość instalacji najnowszej aktualizacji, nawet jeśli którąkolwiek pominięto!</string>
+    <string name="info_dialog_message">Aktualizacje riceDroid to pełne pakiety instalacyjne. Oznacza to, że zawsze masz możliwość instalacji najnowszej aktualizacji, nawet jeśli którąkolwiek pominięto!</string>
     <string name="info_dialog_ok">Dobrze wiedzieć!</string>
     <string name="local_update_import">Aktualizacja lokalna</string>
     <string name="local_update_import_progress">Importowanie aktualizacji lokalnej\u2026</string>

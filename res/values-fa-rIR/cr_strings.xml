@@ -22,7 +22,7 @@
     <string name="current_build_type">نوع ساخت فعلی: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">اطلاعات تکمیلی درباره این اپدیت در دسترس نمی باشد. ممکن است این اپدیت غیر رسمی باشد</string>
     <string name="info_dialog_title">آیا می‌دانستید؟</string>
-    <string name="info_dialog_message">آپدیت های crdroid فول پکیج هستند. یعنی شما می توانید آخرین آپدیت را بدون اینکه آپدیت های قبلی رو نصب کرده باشید, نصب کنید!</string>
+    <string name="info_dialog_message">آپدیت های ricedroid فول پکیج هستند. یعنی شما می توانید آخرین آپدیت را بدون اینکه آپدیت های قبلی رو نصب کرده باشید, نصب کنید!</string>
     <string name="info_dialog_ok">از اطلاعات شما سپاسگذاریم!</string>
     <string name="local_update_import">بروزرسانی داخلی</string>
     <string name="local_update_import_progress">وارد کردن آپدیت محلی\u2026</string>

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.crdroid.updater.download;
+package com.ricedroid.updater.download;
 
 import java.io.File;
 import java.io.IOException;

@@ -22,7 +22,7 @@
     <string name="current_build_type">現在のビルドタイプ：<xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">非公式ビルドまたは OTA 情報なし</string>
     <string name="info_dialog_title">ご存知でしたか？</string>
-    <string name="info_dialog_message">crDroidのアップデートは完全なインストールパッケージです。つまり、いくつかのアップデートをスキップしても、最新のアップデートのみをインストールするだけで良いのです！</string>
+    <string name="info_dialog_message">riceDroidのアップデートは完全なインストールパッケージです。つまり、いくつかのアップデートをスキップしても、最新のアップデートのみをインストールするだけで良いのです！</string>
     <string name="info_dialog_ok">情報をありがとう！</string>
     <string name="local_update_import">ローカルアップデート</string>
     <string name="local_update_import_progress">ローカルアップデートをインポート中\u2026</string>

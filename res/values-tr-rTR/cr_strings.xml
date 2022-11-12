@@ -22,7 +22,7 @@
     <string name="current_build_type">Mevcut inşa türü: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Resmi olmayan veya eksik OTA bilgileri</string>
     <string name="info_dialog_title">Biliyor muydunuz?</string>
-    <string name="info_dialog_message">crDroid güncellemeleri tam yükleme paketleridir. Bu demektir ki güncelleme atlamış olsanız bile her zaman sadece son güncellemeyi kurabilirsiniz!</string>
+    <string name="info_dialog_message">riceDroid güncellemeleri tam yükleme paketleridir. Bu demektir ki güncelleme atlamış olsanız bile her zaman sadece son güncellemeyi kurabilirsiniz!</string>
     <string name="info_dialog_ok">Bilgi için teşekkürler!</string>
     <string name="local_update_import">Yerel güncelleme</string>
     <string name="local_update_import_progress">Yerel güncelleme içe aktarılıyor\u2026</string>

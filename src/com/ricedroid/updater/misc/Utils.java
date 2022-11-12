@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.crdroid.updater.misc;
+package com.ricedroid.updater.misc;
 
 import android.app.AlarmManager;
 import android.content.ClipData;
@@ -33,12 +33,12 @@ import android.widget.Toast;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import com.crdroid.updater.R;
-import com.crdroid.updater.UpdatesDbHelper;
-import com.crdroid.updater.controller.UpdaterService;
-import com.crdroid.updater.model.Update;
-import com.crdroid.updater.model.UpdateBaseInfo;
-import com.crdroid.updater.model.UpdateInfo;
+import com.ricedroid.updater.R;
+import com.ricedroid.updater.UpdatesDbHelper;
+import com.ricedroid.updater.controller.UpdaterService;
+import com.ricedroid.updater.model.Update;
+import com.ricedroid.updater.model.UpdateBaseInfo;
+import com.ricedroid.updater.model.UpdateInfo;
 
 import java.io.BufferedReader;
 import java.io.File;

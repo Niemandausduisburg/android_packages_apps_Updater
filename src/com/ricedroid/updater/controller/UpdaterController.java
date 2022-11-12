@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.crdroid.updater.controller;
+package com.ricedroid.updater.controller;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -25,12 +25,12 @@ import android.util.Log;
 
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
-import com.crdroid.updater.UpdatesDbHelper;
-import com.crdroid.updater.download.DownloadClient;
-import com.crdroid.updater.misc.Utils;
-import com.crdroid.updater.model.Update;
-import com.crdroid.updater.model.UpdateInfo;
-import com.crdroid.updater.model.UpdateStatus;
+import com.ricedroid.updater.UpdatesDbHelper;
+import com.ricedroid.updater.download.DownloadClient;
+import com.ricedroid.updater.misc.Utils;
+import com.ricedroid.updater.model.Update;
+import com.ricedroid.updater.model.UpdateInfo;
+import com.ricedroid.updater.model.UpdateStatus;
 
 import java.io.File;
 import java.io.IOException;

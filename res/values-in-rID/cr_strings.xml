@@ -22,7 +22,7 @@
     <string name="current_build_type">Jenis build saat ini: <xliff:g id="build_type" example="Type">%1$s</xliff:g></string>
     <string name="build_type_unknown">Info OTA tidak resmi atau tidak ada</string>
     <string name="info_dialog_title">Tahukah Anda?</string>
-    <string name="info_dialog_message">Pembaruan crDroid adalah paket instalasi lengkap. Itu berarti Anda selalu dapat menginstal hanya pembaruan terbaru, bahkan jika Anda melewatkan beberapa di antaranya!</string>
+    <string name="info_dialog_message">Pembaruan riceDroid adalah paket instalasi lengkap. Itu berarti Anda selalu dapat menginstal hanya pembaruan terbaru, bahkan jika Anda melewatkan beberapa di antaranya!</string>
     <string name="info_dialog_ok">Terima kasih atas infonya!</string>
     <string name="local_update_import">Pembaruan lokal</string>
     <string name="local_update_import_progress">Mengimpor pembaruan lokal\u2026</string>
